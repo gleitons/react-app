@@ -12,18 +12,18 @@ function App() {
        <NavMenu />
       <header className="App-header">
      
-        <Logoo className="App-logo" />
+        <Logoo className="Applogo" />
        
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Este site está sendo criado em <code>React.js</code> Breve, novidades.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://megadehoje.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Site Oficial
         </a>
       </header>
     </div>

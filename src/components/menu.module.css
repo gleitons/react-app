@@ -1,0 +1,18 @@
+.centerB {
+    width: 100%;
+}
+.dFlex {
+    display: flex;
+    margin: auto;
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+}
+.menuP {
+    margin: 5px;
+    text-align: center;
+    list-style: none;
+    background-color: greenyellow;
+    color: black;
+    padding: 10px;
+}

@@ -1,11 +1,19 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
+import NavMenu from './components/menuPrincipal';
+import Logoo from './components/logoo';
 
 function App() {
+ 
   return (
+   
     <div className="App">
+      
+       <NavMenu />
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+     
+        <Logoo className="App-logo" />
+       
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
